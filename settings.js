@@ -5,10 +5,10 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "916909137213"
-global.ownername = "David Cyril"
-global.ytname = "David Cyril"
+global.ownername = "David Kibet"
+global.ytname = "David kibet"
 global.socialm = "GitHub: DeeCeeXxx"
-global.location = "Africa, Nigeria, Lagos"
+global.location = "Africa, Kenya, Nairobi"
 
 global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
 global.ownername = 'David Cyril' //owner name
@@ -20,7 +20,7 @@ global.author = 'David_Cyril\n\nContact: +2349066528353'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "David Cyril Tech."
+global.wm = "David Kibet Tech."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
@@ -31,7 +31,7 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
